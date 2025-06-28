@@ -3,6 +3,8 @@
 Description:
 This project aims to predict the risk of heart disease in individuals based on various demographic, lifestyle, and health-related factors. The predictive model utilizes machine learning algorithms trained on a dataset containing historical data of patients diagnosed with heart disease. The goal is to assist healthcare professionals in early detection and intervention to reduce the incidence of heart-related complications.
 
+I have also created a presentation(Presentation.pptx) to provide a detailed overview and deeper understanding of the project.
+
 Dependencies:
 Python 3.x
 Pandas
